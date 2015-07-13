@@ -1,9 +1,8 @@
 <?php
 /*
-Plugin Name: Folder Sizes Dashboard Widget
-Plugin URI: http://wordpress.stackexchange.com/q/67876/12615
+Plugin Name: Disk Usage
+Plugin URI: https://github.com/riesal/php-scripts/blob/master/disk.php
 Description: List the following folder sizes in a Dashboard Widget: Uploads dir, WP Content dir, WordPress base dir. 
-Observation: PHP folder size functions from this Answer: http://stackoverflow.com/a/8348396/1287812
 */
 
 add_action( 'wp_dashboard_setup', 'wpse_67876_wp_dashboard_setup' );
