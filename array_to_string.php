@@ -1,5 +1,5 @@
 <?php
-## cast array to string and get the last 'column' by sxploding ' '
+## cast array to string and get the last 'column' by exploding ' '
 
 $bluemix = ' ';
 
